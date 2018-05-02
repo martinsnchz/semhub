@@ -1,11 +1,11 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Menu</h2>
+    <h2>ASASDASDASDSDASDASDASDASDAS</h2>
     <ul>
       <li>
         <a
-          href="#/enfance"
+          href="/Enfance"
           target="_blank"
         >
           Enfance des frères
@@ -13,7 +13,7 @@
       </li>
       <li>
         <a
-          href="/"
+          href=""
           target="_blank"
         >
           Forum
@@ -21,7 +21,7 @@
       </li>
       <li>
         <a
-          href="/"
+          href=""
           target="_blank"
         >
           Community Chat
@@ -38,14 +38,14 @@
       <br>
       <li>
         <a
-          href="/"
+          href=""
           target="_blank"
         >
           Docs for This Template
         </a>
       </li>
     </ul>
-    <h2>gljhgljkg</h2>
+    <h2>Ecosystem</h2>
     <ul>
       <li>
         <a
@@ -85,10 +85,10 @@
 
 <script>
 export default {
-  name: 'Helloworld',
+  name: 'Enfance',
   data () {
     return {
-      msg: 'Le musée des Frères Wright'
+      msg: 'SADASDASDASDASFAQGAGA'
     }
   }
 }
