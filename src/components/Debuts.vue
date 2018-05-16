@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -73,7 +74,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     padding: 8px;
-    border: none;
+    border: dotted;
 }
 
 
@@ -205,40 +206,40 @@ span {
 
 <body>
 
-<div class="navbar">
-  <a href="Site.vue">Home</a>
-  <a href="#Introduction">Introduction</a>
+  <div class="navbar">
+    <a href="Site.vue">Home</a>
+    <a href="#Introduction">Introduction</a>
 
-  <div class="dropdown">
-    <button class="dropbtn" onclick="myFunction()">Chronologie
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content" id="myDropdown">
-      <a href="Enfance.vue">Enfance</a>
-      <a href="Debuts.vue">Débuts</a>
-      <a href="#">Premières Inventions</a>
+    <div class="dropdown">
+      <button class="dropbtn" onclick="myFunction()">Chronologie
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content" id="myDropdown">
+        <a href="Enfance.vue">Enfance</a>
+        <a href="Debuts.vue">Débuts</a>
+        <a href="#">Premières Inventions</a>
+      </div>
     </div>
+    <a href="#chronologie">Gallerie</a>
+    <a href="#chronologie">Vidéos</a>
+    <a href="#chronologie">Sources</a>
+
   </div>
-  <a href="#chronologie">Gallerie</a>
-  <a href="#chronologie">Vidéos</a>
-  <a href="#chronologie">Sources</a>
-
-</div>
 
 
-<h3>Enfance</h3>
+<h3>Débuts</h3>
 
-<img src="https://www.squaducation.com/sites/default/files/styles/blogs__280x180_/wright-brothers-young.png">
+<img src="https://i.pinimg.com/originals/49/07/49/4907496a53438cbcd8dc17aa86bb376f.jpg" alt="Magasin" style=" width:460px ">
 
 <div class="inner-border">
     <p class=article>
     <br/>
 
-    <span> W</span> ilbur Wright est le plus âgé des deux frères, il est né le 16 avril 1967 à Millville dans l’Indiana. Son frère Orville, né le 19 août 1871 à Dayton, entretenait avec son frère une grande complicité, tout deux réalisèrent dès l’enfance des petites machines mécaniques qui leur servaient de jouets. Toute la famille Wright était portée sur l’invention, ce qui donna aux deux frères un cadre favorable pour exploiter le plus vite possible leur esprit inventif.<br/><br/><br/>
+    En 1888, ils construisirent une presse avec laquelle ils purent publier leur journal : le West Side News. En 1892, ils ouvrirent un magasin de bicyclettes et se mirent quelques années plus tard à en construire eux-même.
+<br/>
+Une légende veut que ces modestes fabricants de vélos, s'ennuyant dans leur atelier, aient inventé l'avion par hasard, sans aide extérieure. En réalité, les frères sont des ingénieurs doués qui se sont inspirés de pionniers de l'aviation tels qu'Otto Lilienthal ou Octave Chanute pour concevoir le Flyer après cinq années d'expérimentations (cerfs-volants, planeurs, soufflerie), de recherche et de vols d'essais<br/><br/><br/>
 </p>
 </div>
-
-
 
 
 

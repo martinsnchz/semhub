@@ -17,7 +17,7 @@
 
 
 <style>
-kjhgkjhasd
+
 body {
     background-image: url( "https://78.media.tumblr.com/6e9049e02a6a9eb0d87fdf1de96a5366/tumblr_inline_o67yh3sJiw1sa90vo_540.jpg");
 }
@@ -65,7 +65,7 @@ h3 {
     text-align: center;
     font-size: 20px;
     border-style: none;
-
+Le musée des Frères Wright
 
 }
 
@@ -207,7 +207,7 @@ span {
 <body>
 
 <div class="navbar">
-  <a href="#home">Home</a>
+  <a href="Site.vue">Home</a>
   <a href="#Introduction">Introduction</a>
 
   <div class="dropdown">
@@ -215,8 +215,8 @@ span {
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content" id="myDropdown">
-      <a href="#">Enfance</a>
-      <a href="#">Débuts</a>
+      <a href="Enfance.vue">Enfance</a>
+      <a href="Debuts.vue">Débuts</a>
       <a href="#">Premières Inventions</a>
     </div>
   </div>
