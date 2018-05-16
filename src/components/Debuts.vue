@@ -220,7 +220,7 @@ span {
         <a href="#">Premières Inventions</a>
       </div>
     </div>
-    <a href="#chronologie">Gallerie</a>
+    <a href="Gallerie.vue">Gallerie</a>
     <a href="#chronologie">Vidéos</a>
     <a href="#chronologie">Sources</a>
 
